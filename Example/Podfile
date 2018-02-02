@@ -1,0 +1,7 @@
+use_frameworks!
+
+plugin 'cocoapods-repo-svn', :sources => ['https://192.168.1.176:8443/svn/HD_iOS_Lib/hd_spec']
+
+target 'HD_TSShoppingMall_Example' do
+  pod 'HD_TSShoppingMall', :path => '../'
+end

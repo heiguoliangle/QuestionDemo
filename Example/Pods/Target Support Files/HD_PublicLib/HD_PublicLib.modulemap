@@ -1,0 +1,6 @@
+framework module HD_PublicLib {
+  umbrella header "HD_PublicLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

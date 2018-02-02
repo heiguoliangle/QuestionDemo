@@ -1,0 +1,6 @@
+framework module HD_TSShoppingMall {
+  umbrella header "HD_TSShoppingMall-umbrella.h"
+
+  export *
+  module * { export * }
+}

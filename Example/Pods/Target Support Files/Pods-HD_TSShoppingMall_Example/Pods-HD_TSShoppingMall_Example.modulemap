@@ -1,0 +1,6 @@
+framework module Pods_HD_TSShoppingMall_Example {
+  umbrella header "Pods-HD_TSShoppingMall_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

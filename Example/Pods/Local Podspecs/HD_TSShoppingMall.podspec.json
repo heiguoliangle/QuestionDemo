@@ -1,0 +1,36 @@
+{
+  "name": "HD_TSShoppingMall",
+  "version": "0.1.0",
+  "summary": "A short description of HD_TSShoppingMall.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/heiguoliangle@163.com/HD_TSShoppingMall",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "heiguoliangle@163.com": "heiguoliangle@163.com"
+  },
+  "source": {
+    "git": "https://github.com/heiguoliangle@163.com/HD_TSShoppingMall.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HD_TSShoppingMall/Classes/**/*",
+  "dependencies": {
+    "HD_PublicLib": [
+
+    ],
+    "HGL_PageView": [
+
+    ],
+    "SnapKit": [
+      "~> 4.0.0"
+    ],
+    "Kingfisher": [
+      "~> 4.0"
+    ]
+  }
+}

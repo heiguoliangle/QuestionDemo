@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../HD_TSShoppingMall/Classes/HD_TSSearchVC.swift"
+            timestampString = "539245364.657824"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "viewDidDisappear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HD_TSShoppingMall_Example.HD_TSSearchVC.viewDidDisappear(Swift.Bool) -&gt; ()"
+                  moduleName = "HD_TSShoppingMall_Example"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guolianghao/Desktop/HD/Fakao-lib/publicLib/trunk/HD_TSShoppingMall/HD_TSShoppingMall/Classes/HD_TSSearchVC.swift"
+                  timestampString = "539245365.077786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HD_TSShoppingMall.HD_TSSearchVC.viewDidDisappear(Swift.Bool) -&gt; ()"
+                  moduleName = "HD_TSShoppingMall"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/guolianghao/Desktop/HD/Fakao-lib/publicLib/trunk/HD_TSShoppingMall/HD_TSShoppingMall/Classes/HD_TSSearchVC.swift"
+                  timestampString = "539245365.0798661"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "90">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
